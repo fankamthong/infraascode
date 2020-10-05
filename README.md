@@ -1,6 +1,7 @@
 There are several options:
 
 Option 1: Deploy all existing components into AWS ecs
+
 Option 2: Migrate the existing functionalities into AWS services
 
 other options like deploying all the existing components into AWS eks

@@ -8,6 +8,8 @@ other options like deploying all the existing components into AWS eks
 
 ### The source code presented here is based on option 1.
 
+![](/drawio/Option_1.png)
+
 ### There are some pending features not implemented:
 
 1) nginx reversed proxy config file is hardcoded with the domain name. I have not figured out how to dynamically inject the domain name

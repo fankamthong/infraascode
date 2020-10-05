@@ -1,4 +1,4 @@
-There are several options:
+### There are several options:
 
 Option 1: Deploy all existing components into AWS ecs
 
@@ -6,9 +6,9 @@ Option 2: Migrate the existing functionalities into AWS services
 
 other options like deploying all the existing components into AWS eks
 
-The source code presented here is based on option 1.
+### The source code presented here is based on option 1.
 
-There are some pending features not implemented:
+### There are some pending features not implemented:
 
 1) nginx reversed proxy config file is hardcoded with the domain name. I have not figured out how to dynamically inject the domain name
 2) the connection to redis server is not successful yet. Need to debug what goes wrong

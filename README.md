@@ -15,6 +15,7 @@ other options like deploying all the existing components into AWS eks
 1) nginx reversed proxy config file is hardcoded with the domain name. I have not figured out how to dynamically inject the domain name
 2) the connection to redis server is not successful yet. Need to debug what goes wrong
 3) have not implemented the MySQL server yet
+4) AWS route53 for custom DNS
 
 How to run the code:
 

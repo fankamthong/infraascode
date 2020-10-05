@@ -1,0 +1,4 @@
+config:
+  aws-py-fargate:redis-password:
+    secure: AAABAJHvkhMuQfY41/Gr8mkR2eXuKFGYkpNvSnKAeD2/7KtaL1YKhQ==
+  aws:region: us-east-1
